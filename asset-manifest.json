@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/%20My-Flashcard-Project/static/css/main.70d875de.css",
+    "main.js": "/%20My-Flashcard-Project/static/js/main.ae701876.js",
+    "static/media/Details_IMG.gif": "/%20My-Flashcard-Project/static/media/Details_IMG.aee755967bceee5e1709.gif",
+    "static/media/bg.jpg": "/%20My-Flashcard-Project/static/media/bg.a13f3aa86a81912bfba1.jpg",
+    "index.html": "/%20My-Flashcard-Project/index.html",
+    "main.70d875de.css.map": "/%20My-Flashcard-Project/static/css/main.70d875de.css.map",
+    "main.ae701876.js.map": "/%20My-Flashcard-Project/static/js/main.ae701876.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70d875de.css",
+    "static/js/main.ae701876.js"
+  ]
+}
